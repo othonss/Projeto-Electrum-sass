@@ -177,9 +177,14 @@ ul {
   display: flex;
   justify-content: space-between;
   padding: 3rem 0;
-  flex-direction: column;
-  align-items: center;
 }
+@media (max-width: 425px) {
+  .banners {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 .products-grid {
   max-width: 1170px;
   margin: 0 auto;
@@ -210,7 +215,7 @@ ul {
 }
 
 .deal-container {
-  background-image: url("../../img/deal_headset.png");
+  background-image: url("../img/deal_headset.png");
   background-repeat: no-repeat;
   background-position-x: 95%;
   background-position-y: 2rem;
@@ -485,15 +490,15 @@ ul {
 }
 
 #banner-1 {
-  background-image: url("../../img/banner-1.jpg");
+  background-image: url("../img/banner-1.jpg");
 }
 
 #banner-2 {
-  background-image: url("../../img/banner-2.jpg");
+  background-image: url("../img/banner-2.jpg");
 }
 
 #banner-3 {
-  background-image: url("../../img/banner-3.jpg");
+  background-image: url("../img/banner-3.jpg");
 }
 
 .products-grid-card {
