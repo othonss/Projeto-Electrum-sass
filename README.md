@@ -7,6 +7,8 @@
 | :bulb: Skills        | Layout responsivo e Arquitetura SMACSS
 | :rocket: URL         | https://othonss.github.io/Projeto-Electrum-sass/
 
+![](https://raw.githubusercontent.com/othonss/Projeto-Electrum-sass/main/layout/electrum.png#vitrinedev)
+
 ## Sobre o Electrum
 
 <p>
@@ -18,7 +20,7 @@
 
 ## Layout web
 
-<img src="layout/electrum.png#vitrinedev" width="800" alt="vitrine.dev thumb"/>
+<img src="layout/electrum.png" width="800"/>
 <img src="layout/electrum-desk-1.png" width="800"/>
 <img src="layout/electrum-desk-2.png" width="800"/>
 
