@@ -6,7 +6,8 @@
 | -------------  | --- |
 | :sparkles: Name        | **Projeto Electrum**
 | :label: Technologies | HTML e SASS
-| :camera: Img         | <img src="layout/electrum.png#vitrinedev" width="800" alt="vitrine.dev thumb"/>
+| :bulb: Skills        | Layout responsivo e Arquitetura SMACSS
+| :rocket: URL         | https://othonss.github.io/Projeto-Electrum-sass/
 
 
 <p>
@@ -18,7 +19,7 @@
 
 ## Layout web
 
-<img src="layout/electrum.png" width="800"/>
+<img src="layout/electrum.png#vitrinedev" width="800" alt="vitrine.dev thumb"/>
 <img src="layout/electrum-desk-1.png" width="800"/>
 <img src="layout/electrum-desk-2.png" width="800"/>
 
@@ -30,17 +31,6 @@
   <img src="layout/electrum-mob-3.png" width="300" />
   <img src="layout/electrum-mob-4.png" width="300" />
 </div>
-
-## Tecnologias utilizadas
-<p>Linguagens e padrões que foram utilizados para desenvolver o app</p>
-
-## Front-end
-- HTML
-- SASS
-
-### Competências 
-- Layout responsivo 
-- Arquitetura SMACSS
 
 ## Como executar o projeto
 
