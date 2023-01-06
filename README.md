@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev | Othon Santos da Silva |
 | -------------  | --- |
 | :sparkles: Name        | **Electrum**
-| :label: Technologies | HTML e SASS
+| :label: Technologies | HTML, CSS e SASS
 | :bulb: Skills        | Layout responsivo e Arquitetura SMACSS
 | :rocket: URL         | https://othonss.github.io/Projeto-Electrum-sass/
 
