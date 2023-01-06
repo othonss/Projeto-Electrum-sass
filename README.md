@@ -1,14 +1,13 @@
 # Projeto Electrum
 
-## Sobre o Electrum
-
 | :placard: Vitrine.Dev | Othon Santos da Silva |
 | -------------  | --- |
-| :sparkles: Name        | **Projeto Electrum**
+| :sparkles: Name        | **Electrum**
 | :label: Technologies | HTML e SASS
 | :bulb: Skills        | Layout responsivo e Arquitetura SMACSS
 | :rocket: URL         | https://othonss.github.io/Projeto-Electrum-sass/
 
+## Sobre o Electrum
 
 <p>
   É um site desenvolvido, durante o curso de SASS da Udemy, por Matheus Battisti do canal <strong>Hora de Codar</strong>. Envolvendo conceitos importantes sobre o pré-processador e também como estruturar bem um projeto desenvolvido com SASS. 
